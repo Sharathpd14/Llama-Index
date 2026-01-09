@@ -103,3 +103,15 @@ requests
 # 5. Requires OpenAI API key for OpenAI integrations
 # 6. Requires Anthropic API key for Anthropic integrations
 # 7. Requires Cohere API key for Cohere reranking
+
+
+chonkie==1.5.0
+
+seaborn
+
+tokenizers
+google-generativeai
+pinecone-client
+datasets
+chonkie[gemini]
+chonkie[code]
